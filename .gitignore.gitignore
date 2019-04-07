@@ -1,0 +1,10 @@
+public/
+node_modules/
+.DS_Store
+slick-ui-master/
+
+tmp/
+
+Other/
+
+Backup/
